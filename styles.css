@@ -1,0 +1,209 @@
+html,body{
+  height:100%;
+}
+.sidebar{
+  width: 21.52%;
+  color: white;
+  height:100%;
+  background-color: #32CD32;
+
+}
+.logo{
+  padding-top: 13%;
+  font-size: 32px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  text-align: center;
+}
+.icons{
+  line-height:200%;
+  margin-top: 25%;
+text-align: left;
+padding-left: 60px;
+}
+
+.tiles{
+  position: relative;
+  line-height: 200%;
+  margin-left: 38%;
+  bottom: 335px;
+  font-family: 'Poppins', sans-serif;
+}
+.container-fluid{
+  color: black;
+  position:relative ;
+  left: 21%;
+  bottom:97%;
+}
+
+.navbar{
+  position: relative;
+    left: 21.5%;
+    width: 76%;
+    bottom: 100%;
+}
+.navbar-brand{
+    font-family: 'Poppins', sans-serif;
+}
+.nav-item{
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 7%;
+  margin-left: 5%;
+  font-family: 'Poppins', sans-serif;
+}
+.main{
+  position: absolute;
+  top:83px;
+  background-color: #F4F6F4;
+  width:78%;
+  left:370px;
+  height: 88.5%;
+}
+.btn{
+  margin-left: 4%;
+  margin-top: 2%;
+}
+.endofside{
+  position: absolute;
+  top:85%;
+  left: 5%;
+  text-align: center;
+}
+#xy{
+  font-family: 'Poppins', sans-serif;
+}
+#lastbtn{
+  color: #32CD32;
+  font-weight: 600;
+}
+.search {
+    width: 20%;
+    position: absolute;
+    top:4%;
+    left:78%;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 200;
+}
+.bar{
+  background-color: white;
+  width:95%;
+  font-family: 'Poppins', sans-serif;
+  position: absolute;
+  left:4%;
+  padding-top: 1%;
+  padding-left: 2%;
+  margin-top: 2%;
+  line-height: 60%;
+}
+.row{
+  position: absolute;
+  top:4%;
+  right: 4%;
+}
+.bar2{
+  background-color: white;
+  width:95%;
+  font-family: 'Poppins', sans-serif;
+  position: absolute;
+  left:4%;
+  top: 46%;
+  padding-top: 1%;
+    line-height: 60%;
+  padding-left: 2%;
+}
+.specs{
+  position: absolute;
+  top:24%;
+  left: 4%;
+    background-color: white;
+    width: 95%;
+      font-family: 'Poppins', sans-serif;
+}
+.x{
+  padding-left: 2%;
+  line-height: 60%;
+  padding-top: 1%;
+}
+.y{
+  position: absolute;
+  left: 22%;
+  top:1%;
+  line-height: 60%;
+  padding-top: 1%;
+}
+.z{
+    position: absolute;
+      top:1%;
+      padding-top: 1%;
+      font-family: 'Poppins', sans-serif;
+      right:3%;
+}
+.bar3{
+  background-color: white;
+  width:95%;
+  font-family: 'Poppins', sans-serif;
+  position: absolute;
+  left:4%;
+  top: 57%;
+  padding-top: 1%;
+    line-height: 60%;
+  padding-left: 2%;
+}
+.bar4{
+  background-color: white;
+  width:95%;
+  font-family: 'Poppins', sans-serif;
+  position: absolute;
+  left:4%;
+  top: 68%;
+  padding-top: 1%;
+    line-height: 60%;
+  padding-left: 2%;
+}
+.bar5{
+  background-color: white;
+  width:95%;
+  font-family: 'Poppins', sans-serif;
+  position: absolute;
+  left:4%;
+  top: 79%;
+  padding-top: 1%;
+    line-height: 60%;
+  padding-left: 2%;
+}
+.bar6{
+  background-color: white;
+  width:95%;
+  font-family: 'Poppins', sans-serif;
+  position: absolute;
+  left:4%;
+  top: 90%;
+  padding-top: 1%;
+    line-height: 60%;
+  padding-left: 2%;
+}
+.wind{
+  position: absolute;
+  top:30%;
+  left:30%;
+  background-color: white;
+  width:40%;
+padding-top: 1%;
+padding-left: 2%;
+visibility: hidden;
+}
+.end{
+  position: relative;
+  left:33%;
+  bottom: 78px;
+}
+.noow{
+  position: relative;
+  left:65%;
+  bottom:156px;
+}
+.last{
+  position: relative;
+  bottom:75px;
+}
